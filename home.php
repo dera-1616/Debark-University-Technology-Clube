@@ -9,7 +9,7 @@
     <body>
         <header>
         <h1>Technology Club</h1>
-        <p>Welcome to the Technology Clube </p>
+        <p>Welcome to the Technology Club </p>
         </header>
         <div class="content">
             <h3><i class="fas fa-pen-nib"></i> Join To Our Clube</h3>
@@ -50,4 +50,5 @@
         </div>
     </body>
 </html>
+
 
