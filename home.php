@@ -8,7 +8,7 @@
     </head>
     <body>
         <header>
-        <h1>Technology Clube</h1>
+        <h1>Technology Club</h1>
         <p>Welcome to the Technology Clube </p>
         </header>
         <div class="content">
@@ -50,3 +50,4 @@
         </div>
     </body>
 </html>
+
